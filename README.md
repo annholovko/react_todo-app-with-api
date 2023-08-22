@@ -4,7 +4,7 @@ This React Todo App is designed to provide a user-friendly interface for managin
 
 Technologies: HTML, SCSS, TypeScript, React
 
-If you want to see the page, please, click [here](https://annholovko.github.io/react-todo-app/)
+If you want to see the page, please, click [here]( https://annholovko.github.io/react_todo-app-with-api/)
 
 ## Toggling a todo status
 
